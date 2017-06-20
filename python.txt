@@ -2,3 +2,6 @@ Python learning
 1. Array indexing in numpy 
 2. getting better at plotting iwth matplot
 3. look into pandas library
+4. think i messed this up ahahah 
+5. probably put a repo in a repo
+
