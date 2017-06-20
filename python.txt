@@ -1,3 +1,4 @@
 Python learning 
 1. Array indexing in numpy 
-2. Practing using passin if /else statements
+2. getting better at plotting iwth matplot
+3. look into pandas library
