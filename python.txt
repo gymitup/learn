@@ -1,0 +1,3 @@
+Python learning 
+1. Array indexing in numpy 
+2. Practing using passin if /else statements
